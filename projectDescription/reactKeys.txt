@@ -1,0 +1,10 @@
+Install create-react-app:
+npm i create-react-app
+Add create-react-app to the path: 
+export PATH="$HOME/.npm-global/bin:$PATH"
+Create a new react project:
+create-react-app my-react-website
+Navigate inside the react project:
+cd my-react-website
+Run the project on the browser:
+npm start
